@@ -1,0 +1,6 @@
+c:\users\danker\documents\visual studio 2015\Projects\CodeChallenge6\CodeChallenge6\bin\Debug\CodeChallenge6.exe.config
+c:\users\danker\documents\visual studio 2015\Projects\CodeChallenge6\CodeChallenge6\bin\Debug\CodeChallenge6.exe
+c:\users\danker\documents\visual studio 2015\Projects\CodeChallenge6\CodeChallenge6\bin\Debug\CodeChallenge6.pdb
+c:\users\danker\documents\visual studio 2015\Projects\CodeChallenge6\CodeChallenge6\obj\Debug\CodeChallenge6.csprojResolveAssemblyReference.cache
+c:\users\danker\documents\visual studio 2015\Projects\CodeChallenge6\CodeChallenge6\obj\Debug\CodeChallenge6.exe
+c:\users\danker\documents\visual studio 2015\Projects\CodeChallenge6\CodeChallenge6\obj\Debug\CodeChallenge6.pdb
